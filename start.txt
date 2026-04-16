@@ -1,1 +1,2 @@
-
+Completed analysis task and start project
+Closes #8
