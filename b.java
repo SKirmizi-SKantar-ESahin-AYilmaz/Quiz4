@@ -1,3 +1,1 @@
-
-hello
-burası main
+class B{}
